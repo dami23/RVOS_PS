@@ -1,6 +1,6 @@
 # PRVOS
 
-This repo contains the official implementation of the paper 'Uncertainty-aware Adaptive Pseudo-Labeling for Referring Video Object Segmentation'
+This is the implementation of the paper "Uncertainty-aware Adaptive Pseudo-Labeling for Referring Video Object Segmentation" which is submitted to ICANN 2023.
 
 <div align="center">
   <img src="structure.png">
