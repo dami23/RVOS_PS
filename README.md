@@ -101,7 +101,7 @@ Ref-DAVIS/
 ```
 # How to Run the Code
 1. First, clone this repo to your local machine using:
-`git clone https://github.com/SAMSTAYREAL/PRVOS`
+`git clone https://github.com/dami23/RVOS_PS.git`
 2. Environment configuration as shown in Prerequisites
 
 ## Training
